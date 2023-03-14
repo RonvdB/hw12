@@ -1,0 +1,166 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font-family: Arial, sans-serif;
+}
+
+header {
+	background-color: #900;
+	display: block;
+}
+
+h2 {
+	text-align: center;
+	color: #F93;
+	font-family: Tahoma, Geneva, sans-serif;
+	}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+th, td {
+	border: 1px solid black;
+	text-align: center;
+	padding: 10px;
+}
+
+th {
+	background-color: #FFCC33;
+	color: #F60;
+}
+
+#mango {
+	background-color: #FFCC33;
+	color:#CC3300;
+}
+
+#mango_img {
+	background-color: #FFCC00;
+}
+
+#avocado {
+	background-color: #336633;
+	color: #CCCC66;
+}
+
+#avocado_img {
+	background-color: #003300;
+}
+
+#passievrucht {
+	background-color: #CC3333;
+	color:#663333;
+}
+
+#passievrucht_img {
+	background-color: #993333;
+}
+
+#papaja {
+	background-color: #FF9933;
+	color:#663333;
+}
+
+#papaja_img {
+	background-color: #FF6633;
+}
+
+#drakenfruit {
+	background-color: #CC3366;
+	color:#663366;
+}
+
+#drakenfruit_img {
+background-color: #993366;
+}
+
+#kokosnoot {
+	background-color: #996633;
+	color: #CC9966;
+}
+
+#kokosnoot_img {
+	background-color: #663333;
+}
+
+#limoen {
+	background-color: #669933;
+	color:#CCCC66;
+}
+
+#limoen_img {
+	background-color: #336600;
+}
+
+#sinaasappel {
+	background-color: #FF9900;
+	color:#FFFF99;
+}
+
+#sinaasappel_img {
+	background-color: #FF6600;
+}
+
+#watermeloen {
+	background-color: #FF6666;
+	color: #CC0000;
+}
+
+#watermeloen_img {
+	background-color: #FF3366;
+}
+
+#kiwi {
+	background-color: #99CC66;
+	color:#FFFF99;
+}
+
+#kiwi_img {
+	background-color: #669933;
+}
+
+#bananen {
+	background-color: #FFFF33;
+	color: #663300;
+}
+
+#bananen_img {
+	background-color: #E6E600;
+}
+
+#vijgen {
+	background-color: #800080;
+	color: #FF99CC;
+}
+
+#vijgen_img {
+	background-color: #660066;
+}
+
+#pomster {
+	background-color: #006600;
+	color: #66FF66;
+}
+
+#pomster_img {
+	background-color: #004d00;
+}
+
+#guave {
+	background-color: #FF99CC;
+	color: #CC0099;
+}
+
+#guave_img {
+	background-color: #CC6699;
+}
+
+footer {
+	background-color: #333;
+	display: block;
+	width: auto;
+	text-align: center;
+	color: #CCC;
+}
